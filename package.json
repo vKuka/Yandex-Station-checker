@@ -1,0 +1,16 @@
+{
+  "name": "yandex_station_checker",
+  "version": "1.0.0",
+  "description": "Проверка доступности Яндекс.Станции",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "VKuka",
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.5.9",
+    "node-html-parser": "^1.1.11",
+    "nodemailer": "^4.6.8"
+  }
+}
